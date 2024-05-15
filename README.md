@@ -1,4 +1,4 @@
-# Outlier Detection using Various Methods
+# Outlier Detection 
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk mendeteksi outlier dalam data menggunakan beberapa metode populer seperti IQR, Z-score, Percentiles, Isolation Forest, dan Local Outlier Factor.
